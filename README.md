@@ -21,7 +21,7 @@ The objective of this project:
 
 ## Steps to reproduce the results
  
-The language for development is python version 3.7 and as the code is on github  to download the files directly.
+The language for development is python version 3.7 and as the code is on github  to download the files directly. Also it is recommended installing with Anaconda and adding it to the path of Windows.
 [Python](https://www.python.org/)
 [Github](https://github.com/)
 
@@ -38,7 +38,7 @@ git clone https://github.com/vrjpt10/Mini-Project-1-Residual-Network-Design.git
 
 3. Run the file miniproject1.py
 ```
-python 3 miniproject1.py
+python3 miniproject1.py
 ```
 4. Then run the test.py file following the proper folder stucture.
 ```
