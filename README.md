@@ -17,7 +17,7 @@ The objective of this project:
 
 2. The number of trainable parameters should be less than 5M.
 
-3. Try and test different teschniques like augmentation, normalization etc to get better accurcay.
+3. Try and test different techniques like augmentation, normalization etc to get better accurcay.
 
 4. Try different hyperparameters and find which gave better results.
 
