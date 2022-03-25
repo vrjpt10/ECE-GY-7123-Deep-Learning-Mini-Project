@@ -155,7 +155,7 @@ print(f"Using {device} device")
 
 #added code
 def project1_model():
-    return ResNet(BasicBlock, [2,3,2,2])
+    return project1_model(BasicBlock, [2,3,2,2])
 
 # Loading model:
 model=project1_model().to(device)
