@@ -9,11 +9,13 @@
 The ResNet model is one of the most popular and successful deep learning models so far. The architecture allows training up to hundreds or even thousands of layers and still achieves compelling performance. It was introduced by Shaoqing Ren, Kaiming He, Jian Sun, and Xiangyu Zhang in their paper “Deep Residual Learning for Image Recognition” [1](https://arxiv.org/abs/1512.03385) in 2015. ResNet has the ability to tackle the problem of vanishing gradients by using residual blocks with shortcut connections. The shortcut connection simply performs identity mapping, and their outputs are added to the output of the stacked layer.
 In our experiment, ResNet architecture was designed and trained for image classification on the CIFAR-10 benchmark dataset. The model was trained in a manner that the number of trainable parameters were < 5M and the accuracy > 80%.
 
+
+
 ## Objective 
 
 The objective of this project:
 
-1. Modify the provided resnet model and train it on Cifar-10 dataset to get a reasonable test accuracy.
+1. Modify the provided resnet model and train it on Cifar-10 dataset to get a reasonable test accuracy on [CIFAR 10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html).
 
 2. The number of trainable parameters should be less than 5M.
 
@@ -22,6 +24,7 @@ The objective of this project:
 4. Try different hyperparameters and find which gave better results.
 
 5. Reach to a final result by comparing different models and their performance.
+
 
 ## Steps to reproduce the results
  
