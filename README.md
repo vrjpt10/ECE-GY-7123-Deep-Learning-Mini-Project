@@ -21,7 +21,7 @@ The objective of this project:
 
 ## Steps to reproduce the results
  
-The language for development is python version 3.7 and as the code is on github  to download the files directly. Also it is recommended installing with Anaconda and adding it to the path of Windows.
+The language for development is python version 3.7 and as the code is on github  to download the files directly. Also it is recommended installing Anaconda and adding it to the path of Windows.
 
 [Python](https://www.python.org/)
 
