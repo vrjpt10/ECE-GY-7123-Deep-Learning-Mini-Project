@@ -52,14 +52,10 @@ git clone https://github.com/vrjpt10/Mini-Project-1-Residual-Network-Design.git
 
 ```
 
-3. Run the file miniproject1.py
-```
-python3 miniproject1.py
-```
+3. Run the file miniproject1.py 
+
 4. Then run the test.py file following the proper folder stucture.
-```
-python3 test.py
-```
+
 
 ## Results
 
