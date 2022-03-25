@@ -56,6 +56,8 @@ python3 test.py
 
 ## Results
 
+We obtained a test accuracy of ~92% after running 50 epochs.
+
 ![image](https://user-images.githubusercontent.com/85714572/160190271-1aa02a06-4991-40d0-89ad-5d54ec704cbb.png)
 
 ## Final Model
