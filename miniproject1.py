@@ -155,7 +155,7 @@ print(f"Using {device} device")
 
 #added code
 def project1_model():
-    return ResNet(BasicBlock, [2,3,2,2])
+    return project1_model(BasicBlock, [2,3,2,2])
 
 # Loading model:
 model=project1_model().to(device)
@@ -241,4 +241,4 @@ test_model.load_state_dict(torch.load('miniProject1.pt'))
 # Place model on GPU
 test_model.to(device)
 
-model.eval()
+test_model.eval()
