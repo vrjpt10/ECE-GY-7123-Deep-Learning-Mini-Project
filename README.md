@@ -57,5 +57,5 @@ python3 test.py
 
 ### Acknowledgement
 
-  We are thankful and grateful to Prof. Siddharth Garg, Prof. Arsalan Mosenia and the Teaching assistants for their help and support. Their guidance helped us to learn and implement our learnings through this project.
+  We are grateful to Prof. Siddharth Garg, Prof. Arsalan Mosenia and the teaching assistants for their help and support. Their guidance helped us to learn and implement our learnings through this project.
 
