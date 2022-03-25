@@ -41,7 +41,7 @@ The language for development is python version 3.9 and Numpy version is 1.20.3 a
 
 [Github](https://github.com/)
 
-## Clone the repository
+### Clone the repository
 
 Steps to reproduce the result and or clone the repository:
 
@@ -51,10 +51,11 @@ Steps to reproduce the result and or clone the repository:
 git clone https://github.com/vrjpt10/Mini-Project-1-Residual-Network-Design.git
 
 ```
+### To run the model then test
 
-3. Run the file miniproject1.py 
+ Run the file miniproject1.py 
 
-4. Then run the test.py file following the proper folder stucture.
+ Then run the test.py file following the proper folder stucture.
 
 
 ## Results
