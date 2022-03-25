@@ -204,7 +204,7 @@ for i in range(len(arr_train)):
   if (i%782) == 0:
     arr_train1.append(arr_train[i])
 
-#plotting the accuracy
+# Plotting the accuracy:
 plt.plot(arr_train_acc)
 plt.plot(arr_test_acc)
 plt.legend(["train","test"])
