@@ -52,5 +52,8 @@ python3 test.py
 ## Final Model
 
 ![image](https://user-images.githubusercontent.com/85714572/160190635-dcc91216-e8c9-445e-8d51-2373ca448cbb.png)
-![Uploading image.png…]()
+
+### Acknowledgement
+
+  We are thankful and grateful to Prof. Siddharth Garg, Prof. Arsalan Mosenia and the Teaching assistants for their help and support. Their guidance helped us to learn and implement our learnings through this project.
 
