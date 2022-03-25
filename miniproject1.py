@@ -154,11 +154,11 @@ device = "cuda" if torch.cuda.is_available() else "cpu"
 print(f"Using {device} device")
 
 #added code
-def ResNet18():
+def project1_model():
     return ResNet(BasicBlock, [2,3,2,2])
 
 # Loading model:
-model=ResNet18().to(device)
+model=project1_model().to(device)
 
 # Displaying number of trainable parameters:
 sum(p.numel() for p in model.parameters() if p.requires_grad)
