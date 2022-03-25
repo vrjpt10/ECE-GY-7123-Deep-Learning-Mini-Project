@@ -13,11 +13,15 @@ In our experiment, ResNet architecture was designed and trained for image classi
 
 The objective of this project:
 
-1 Modify the provided resnet model and train it on Cifar-10 dataset to get a reasonable test accuracy.
-2 The number of trainable parameters should be less than 5M.
-3 Try and test different teschniques like augmentation, normalization etc to get better accurcay.
-4 Try different hyperparameters and find which gave better results.
-5 Reach to a final result by comparing different models and their performance.
+1. Modify the provided resnet model and train it on Cifar-10 dataset to get a reasonable test accuracy.
+
+2. The number of trainable parameters should be less than 5M.
+
+3. Try and test different teschniques like augmentation, normalization etc to get better accurcay.
+
+4. Try different hyperparameters and find which gave better results.
+
+5. Reach to a final result by comparing different models and their performance.
 
 ## Steps to reproduce the results
  
