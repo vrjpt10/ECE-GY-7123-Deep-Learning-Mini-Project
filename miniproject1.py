@@ -102,6 +102,7 @@ class ResNet(nn.Module):
         out = self.linear(out)
         return out
 
+# Creating lists for train and test loss and accuracies:
 train_losses = []
 train_acc = []
 test_losses_l1 = []
@@ -197,6 +198,12 @@ arr_train_acc=np.array(train_acc)
 test_acc_l1=torch.Tensor(test_acc_l1).cpu()
 arr_test_acc=np.array(test_acc_l1)
 
+# Getting the train loss for the last batch for every epoch:
+arr_train1 =[]
+for i in range(len(arr_train)):
+  if (i%782) == 0:
+    arr_train1.append(arr_train[i])
+
 #plotting the accuracy
 plt.plot(arr_train_acc)
 plt.plot(arr_test_acc)
@@ -207,11 +214,11 @@ plt.ylabel("Accuracy")
 plt.show()
 
 # Printing train loss:
-plt.plot(arr_train )
-plt.xlabel('Batch')
+plt.plot(arr_train1 )
+plt.xlabel('Epoch')
 plt.ylabel('Loss')
 plt.legend(['Train Loss'])
-plt.title('Train Loss vs Batch')
+plt.title('Train Loss vs Epoch')
 plt.show()
 
 # Printing test loss:
