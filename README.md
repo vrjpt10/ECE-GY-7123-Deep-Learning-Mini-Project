@@ -57,7 +57,7 @@ git clone https://github.com/vrjpt10/Mini-Project-1-Residual-Network-Design.git
 
  Then run the test.py file following the proper folder stucture.
  
- The miniproject1.py was basically executed on Google colab and for testing requires all the implicit libraries available wherever it is tested.
+ The miniproject1.py was basically executed on Google colab and for testing requires all the implicit libraries alraedy imported before the testing is done.
 
 
 ## Results
