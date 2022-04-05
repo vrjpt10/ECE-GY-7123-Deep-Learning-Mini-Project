@@ -46,11 +46,11 @@ Steps to reproduce the result and or clone the repository:
 ```
 ### To train the model then test
 
-Run the file project1_model.py
+Run the file miniproject1.py to train the model and save weights. This will generate miniProject1.pt file.
 
 Then run the test.py file following the proper folder stucture.
 
-The project1_model.py was executed on Google colab and for testing requires all the implicit libraries alraedy imported before the testing is done.
+The miniproject1.py was executed on Google colab and for testing requires all the implicit libraries alraedy imported before the testing is done.
 
 ## Results
 
