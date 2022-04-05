@@ -14,3 +14,4 @@
  
  
 We resubmitted the project1_model.py and project1_model.pt as the file names were not the same in training and test environment. So we made the corrections and retrained the model with proper names and also we were using different normalization values so changed the test script accordingly and ran the self_eval.py test script to test the accuracy and getting 92.9%. We have also excluded any extra libraries from the project1_model.py file to avoid any further failure. 
+![Test_accuracy](https://user-images.githubusercontent.com/85714572/161825824-37028b6e-dacb-46de-aa56-6208d4b7cc07.PNG)
