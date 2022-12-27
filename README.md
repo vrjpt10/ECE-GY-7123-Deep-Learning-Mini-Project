@@ -1,5 +1,7 @@
 
- ## About the project
+ ## Residual Network Design
+ 
+ ### About the project
  
  As part of this mini project, a residual network architecture was implemented and trained with certain objectives. The size of the trainable parameters was required to be strictly under a definite value while experimenting with the various hyper-parameters of the ResNet model to maximize the accuracy on the CIFAR-10 dataset. The model was trained using different optimizers, data augmentation strategies, batch size, epochs, and regularization techniques. Changes in accuracy with respect to different network configurations were noted and compared based on which the final residual network model was selected. 
  
